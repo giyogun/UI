@@ -1,8 +1,8 @@
 import { AiFillStar, AiOutlineStar } from "react-icons/ai";
 import { IoMdChatboxes } from "react-icons/io";
 import { RiContactsFill } from "react-icons/ri";
-
 import "./BigBox.css";
+
 
 function BigBox(props) {
   return (
