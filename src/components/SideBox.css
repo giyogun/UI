@@ -1,5 +1,6 @@
 .side-box {
   position: relative;
+  height: fit-content;
   margin: 10px;
   margin-right: 50px;
   padding: 10px;
